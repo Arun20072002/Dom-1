@@ -1,0 +1,39 @@
+*{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 95%;
+}
+.mainheading{
+    text-align: center;
+    font-size: 48px;
+    color: brown;
+    text-shadow: 0 0 10px #000;
+}
+
+.content{
+    text-align: center;
+    font-size: 18px;
+    color: rgb(59, 169, 203);
+    text-shadow: 0 0 10px #ca4343;
+    
+}
+.div1{
+    width: 100%;
+}
+.pic{
+    padding:2% 0 0 23%;
+    
+}
+/* .pic1{
+    width: 75%; 
+    padding:2% 0 0 23%;
+     
+}
+.pic2{
+    width: 75%; 
+    padding:2% 0 0 23%;
+     
+} */

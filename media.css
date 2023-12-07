@@ -1,0 +1,62 @@
+/* moblie */
+@media(min-width:320px){
+    .mainheading{
+        padding:0 0 0 100%;
+    }
+    .content{
+        padding:0 0 0 50%;
+        
+    }
+    .pic1{
+        width: 100%; 
+        padding:2% 0 0 50%;
+         
+    }
+    .pic2{
+        width: 100%; 
+        padding:2% 0 0 50%;
+         
+    }
+}
+
+/* i-pad */
+@media(min-width:760px){
+    .mainheading{
+        padding:0 0 0 80%;
+    }
+    .content{
+        padding:0 0 0 50%;
+        
+    }
+    .pic1{
+        width: 75%; 
+        padding:2% 0 0 23%;
+         
+    }
+    .pic2{
+        width: 75%; 
+        padding:2% 0 0 23%;
+         
+    }
+}
+
+/* laptop */
+@media(min-width:960px){
+    .mainheading{
+        padding:0;
+    }
+    .content{
+        padding:0 0 0 0%;
+        
+    }
+    .pic1{
+        width: 75%; 
+        padding:2% 0 0 23%;
+         
+    }
+    .pic2{
+        width: 75%; 
+        padding:2% 0 0 23%;
+         
+    }
+}
